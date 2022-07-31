@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I am a PhD student at IIT Delhi and currently working on bioactive peptide design using machineg learning.
-My interest lies in correlating sequence-activity relationship of various antimicrobial and cell penetrating peptide using language models.  
+I am a PhD student at IIT Delhi and currently working on bioactive peptide design using machine learning.
+My interest lies in understanding design space of antimicrobial and cell penetrating peptide using language models and statistical mechanics.  
 
 <!--
 **saurabh-sarswt/saurabh-sarswt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
