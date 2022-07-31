@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### I am a Machine learning enthusiast currently pursiuing PhD from IIT Delhi. 
+
 <!--
 **saurabh-sarswt/saurabh-sarswt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
