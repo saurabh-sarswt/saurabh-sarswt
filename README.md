@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I am a Machine learning enthusiast currently pursiuing PhD from IIT Delhi. 
+### I am a PhD student at IIT Delhi and currently working on bioactive peptide  design through natural language processing.  
 
 <!--
 **saurabh-sarswt/saurabh-sarswt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
